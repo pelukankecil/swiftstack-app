@@ -52,6 +52,12 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				signature: {
+					canvas: 'hsl(var(--signature-canvas))',
+					border: 'hsl(var(--signature-border))',
+					upload: 'hsl(var(--signature-upload))',
+					'upload-border': 'hsl(var(--signature-upload-border))'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
